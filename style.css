@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url(../images/japan.png) cover;
+    background-image: url(../images/japan.png) cover;
     position: relative;
     width: 100%;
     min-height: 100vh;
